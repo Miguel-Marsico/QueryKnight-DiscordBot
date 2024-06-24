@@ -9,7 +9,7 @@ Este bot é equipado com diversas funcionalidades que facilitam a administraçã
 ![image](https://github.com/Miguel-Marsico/QueryKnight-DiscordBot/assets/158609724/2cb0dbcc-5bd9-46af-834c-2994537e15bd)
 - Backup Automático: O bot realiza backups periódicos do banco de dados, garantindo que os dados estejam sempre seguros e disponíveis para recuperação em caso de falhas.
 ![image](https://github.com/Miguel-Marsico/QueryKnight-DiscordBot/assets/158609724/88f311c8-291f-47c1-ab15-fe8d8d53f214)
-- Exportação de Dados: Resultados de consultas podem ser exportados em vários formatos, incluindo CSV, JSON e XLSX, facilitando a análise e o compartilhamento de informações.
+- Exportação de Dados: Resultados de consultas podem ser exportados em vários formatos, facilitando a análise e o compartilhamento de informações.
 ![image](https://github.com/Miguel-Marsico/QueryKnight-DiscordBot/assets/158609724/b9c4b370-7694-457f-863e-7501617a599f)
 
 Com essas funções nativas em um Bot Discord, a estruturação de bancos de dados se torna mais fácil, permitindo que os bots Discord sejam utilizados para diversas finalidades, como gerenciamento de estoque, controle de usuários, registro de atividades, armazenamento de logs, implementação de sistemas de pontos e recompensas, entre outras. Essas funcionalidades integradas otimizam o desempenho e a eficiência dos bots, proporcionando uma gestão de dados mais organizada e facilmente acessível diretamente no ambiente do Discord.

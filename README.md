@@ -1,15 +1,13 @@
-# QueryKnight
-QueryKnight is a Discord bot designed to execute SQL commands directly in a Discord server chat. It allows the administration and updating of an SQLite database.
+# QueryKnight - SQL Discord Bot
+Discord bots can be used for various functions, from server moderation and user interaction to task automation and integration with other platforms. One example of this versatility is the integration of Discord bots with databases. This is where QueryKnight comes in, making life easier for server administrators who seek an efficient way to manage information without the need to switch between multiple platforms, thus making the process more efficient and integrated.
 
-Bots Discord podem ser usados para diversas funções, desde a moderação de servidores e interação com usuários até a automação de tarefas e integração com outras plataformas. Um exemplo dessa versatilidade é a integração de bots Discord com banco de dados, e é nessa hora que o QueryKnight entra para facilitar a vida de administradores de servidores que buscam uma maneira eficiente de gerenciar informações sem a necessidade de alternar entre múltiplas plataformas, tornando o processo mais eficiente e integrado. 
+This bot is equipped with several features that facilitate database administration and usage, such as:
 
-Este bot é equipado com diversas funcionalidades que facilitam a administração e o uso de bancos de dados, como:
-
-- Execução de Queries SQL: Usuários podem enviar comandos SQL diretamente no chat, e o bot processa e retorna os resultados instantaneamente.
+- SQL Query Execution: Users can send SQL commands directly in the chat, and the bot processes and returns the results instantly.
 ![image](https://github.com/Miguel-Marsico/QueryKnight-DiscordBot/assets/158609724/e9813fb9-2f0f-4968-8132-85fac4977f2d)
-- Atualização de Banco de Dados: Permite adicionar, modificar e excluir registros no banco de dados, bem como criar e alterar estruturas de tabelas.
+- Database Updates: Allows adding, modifying, and deleting records in the database, as well as creating and altering table structures.
 ![image](https://github.com/Miguel-Marsico/QueryKnight-DiscordBot/assets/158609724/2cb0dbcc-5bd9-46af-834c-2994537e15bd)
-- Backup Automático: O bot realiza backups periódicos do banco de dados, garantindo que os dados estejam sempre seguros e disponíveis para recuperação em caso de falhas.
+- Automatic Backup: The bot performs periodic backups of the database, ensuring that data is always secure and available for recovery in case of failures.
 ![image](https://github.com/Miguel-Marsico/QueryKnight-DiscordBot/assets/158609724/88f311c8-291f-47c1-ab15-fe8d8d53f214)
-- Exportação de Dados: Resultados de consultas podem ser exportados em vários formatos, incluindo CSV, JSON e XLSX, facilitando a análise e o compartilhamento de informações.
+- Data Export: Query results can be exported in various formats, including CSV, JSON, and XLSX, facilitating analysis and information sharing.
 ![image](https://github.com/Miguel-Marsico/QueryKnight-DiscordBot/assets/158609724/b9c4b370-7694-457f-863e-7501617a599f)

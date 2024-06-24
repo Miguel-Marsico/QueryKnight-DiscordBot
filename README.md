@@ -17,4 +17,5 @@ Este bot é equipado com diversas funcionalidades que facilitam a administraçã
 
 Com essas funções nativas em um Bot Discord, a estruturação de bancos de dados se torna mais fácil, permitindo que ac onfiguração de bots utilizados para gerenciamento de estoque, controle de usuários, registro de atividades, armazenamento de logs, implementação de sistemas de pontos e recompensas, entre outras finalidades, seja feita dentro da própria plataforma.
 
-Veja mais bots personalizados no Discord da [MTS Code Store](https://discord.gg/QCQAsFBhqb)
+Veja mais bots personalizados no Servidor Discord da [MTS Code Store](https://discord.gg/QCQAsFBhqb) e no GitHub [MTS Code Store](https://github.com/MTSCodeStore)
+ 
